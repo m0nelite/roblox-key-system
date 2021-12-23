@@ -1,0 +1,47 @@
+{
+  "show":1,
+  "executor_list":[
+    {
+      "executor":{
+        "id":1,
+        "title":"First",
+        "content":"First message for executor update",
+        "tag":"executor update",
+        "time":"2021-12-23 11:22:35",
+        "autor":"Monelite"
+      }
+    },
+    {
+      "executor":{
+        "id":2,
+        "title":"Second",
+        "content":"Second message for executor update",
+        "tag":"executor update",
+        "time":"2021-12-23 11:22:35",
+        "autor":"Monelite"
+      }
+    }
+  ],
+  "panel_list":[
+    {
+      "panel":{
+        "id":1,
+        "title":"First",
+        "content":"First message for panel update",
+        "tag":"panel update",
+        "time":"2021-12-23 11:22:35",
+        "autor":"Monelite"
+      }
+    },
+    {
+      "panel":{
+        "id":2,
+        "title":"Second",
+        "content":"Second message for panel update",
+        "tag":"panel update",
+        "time":"2021-12-23 11:22:35",
+        "autor":"Monelite"
+      }
+    }
+  ]
+}
