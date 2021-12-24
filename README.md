@@ -10,7 +10,8 @@
   * **Updates**: You view stats
   * **Generate**: To generate a key
   * **Resolver**: View details about a key
-  
+  * **Welcome Page**: When you bought this system, you going to see a welcome page
+
 ## Prices
   * 5$/lifetime without updates
   * 10$/lifetime with updates
